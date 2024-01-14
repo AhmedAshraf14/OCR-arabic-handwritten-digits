@@ -15,9 +15,9 @@ Ensure that you have Python and Jupyter Notebook installed on your system.
 # Installation
 Clone the repository and install the necessary dependencies:
 
-- git clone https://github.com/AhmedAshraf14/handwritten-digit-recognition.git
-- cd handwritten-digit-recognition/decision-tree-classifier
+- git clone [https://github.com/AhmedAshraf14/handwritten-digit-recognition.git](https://github.com/AhmedAshraf14/OCR-arabic-handwritten-digits.git)
+- cd OCR-arabic-handwritten-digits/
 - pip install -r requirements.txt
 
 # Usage
-Execute the Jupyter Notebook or Python script to train and test the Decision Tree Classifier on handwritten digit data. Explore the provided code for insights into the model's functioning.
+Execute the Jupyter Notebook or Python script to train and test the Decision Tree Classifier on Arabic handwritten digit data. Explore the provided code for insights into the model's functioning.
